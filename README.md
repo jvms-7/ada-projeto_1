@@ -14,5 +14,8 @@ portfólio. O conteúdo está organizado em cinco aulas, complementadas por um p
 - Aula 5 - Integração e workflow colaborativo com Git
 - Projeto final - análise de um conjunto de dados em grupo
 
+## teste
+testando as funcionalidades do Git
+
 ## Autor
 João Victor Matos - github.com/[usuario].(https://github.com/jvms-7/).
